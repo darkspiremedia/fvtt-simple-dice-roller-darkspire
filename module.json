@@ -1,0 +1,17 @@
+{
+	"name": "simple-dice-roller-darkspire",
+	"title": "Simple Dice Roller (Darkspire)",
+	"description": "Simple module that allows for quick rolling of common dice.",
+	"version": "1.0.0",
+	"minimumCoreVersion": "0.4.4",
+	"compatibleCoreVersion": "0.5.7",
+	"author": "Darkspire Original Jan Ole Peek (ChalkOne)",
+	"scripts": ["./simple-dice-roller-darkspire.js"],
+	"styles": [
+		"./css/simple-dice-roller-darkspire.css",
+		"./css/dicefont.css"
+	],
+	"url": "https://github.com/darkspiremedia/fvtt-simple-dice-roller-darkspire",
+	"manifest": "https://raw.githubusercontent.com/darkspiremedia/fvtt-simple-dice-roller-darkspire/master/module.json",
+	"download": "https://github.com/darkspiremedia/fvtt-simple-dice-roller-darkspire/archive/master.zip"
+}
