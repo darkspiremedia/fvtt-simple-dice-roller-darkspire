@@ -45,6 +45,13 @@ class SimpleDiceRollerDarkspire {
                             <li data-dice-type="6" data-dice-roll="5" class="sdr-lastcol">5</li>
                         </ul>
                         <ul>
+                            <li data-dice-type="7" data-dice-roll="1" class="sdr-col1"><i class="df-d8-7" data-dice-type="7" data-dice-roll="1"></i> d7</li>
+                            <li data-dice-type="7" data-dice-roll="2">2</li>
+                            <li data-dice-type="7" data-dice-roll="3">3</li>
+                            <li data-dice-type="7" data-dice-roll="4">4</li>
+                            <li data-dice-type="7" data-dice-roll="5" class="sdr-lastcol">5</li>
+                        </ul>
+                        <ul>
                             <li data-dice-type="8" data-dice-roll="1" class="sdr-col1"><i class="df-d8-8" data-dice-type="8" data-dice-roll="1"></i> d8</li>
                             <li data-dice-type="8" data-dice-roll="2">2</li>
                             <li data-dice-type="8" data-dice-roll="3">3</li>
@@ -64,6 +71,20 @@ class SimpleDiceRollerDarkspire {
                             <li data-dice-type="12" data-dice-roll="3">3</li>
                             <li data-dice-type="12" data-dice-roll="4">4</li>
                             <li data-dice-type="12" data-dice-roll="5" class="sdr-lastcol">5</li>
+                        </ul>
+                        <ul>
+                            <li data-dice-type="14" data-dice-roll="1" class="sdr-col1"><i class="df-d20-14" data-dice-type="14" data-dice-roll="1"></i> d14</li>
+                            <li data-dice-type="14" data-dice-roll="2">2</li>
+                            <li data-dice-type="14" data-dice-roll="3">3</li>
+                            <li data-dice-type="14" data-dice-roll="4">4</li>
+                            <li data-dice-type="14" data-dice-roll="5" class="sdr-lastcol">5</li>
+                        </ul>
+                        <ul>
+                            <li data-dice-type="16" data-dice-roll="1" class="sdr-col1"><i class="df-d20-16" data-dice-type="16" data-dice-roll="1"></i> d16</li>
+                            <li data-dice-type="16" data-dice-roll="2">2</li>
+                            <li data-dice-type="16" data-dice-roll="3">3</li>
+                            <li data-dice-type="16" data-dice-roll="4">4</li>
+                            <li data-dice-type="16" data-dice-roll="5" class="sdr-lastcol">5</li>
                         </ul>
                         <ul>
                             <li data-dice-type="20" data-dice-roll="1" class="sdr-col1"><i class="df-d20-20" data-dice-type="20" data-dice-roll="1"></i> d20</li>
