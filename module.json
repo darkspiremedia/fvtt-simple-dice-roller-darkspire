@@ -1,8 +1,8 @@
 {
 	"name": "simple-dice-roller-darkspire",
 	"title": "Simple Dice Roller (Darkspire)",
-	"description": "Simple module that allows for quick rolling of dice.",
-	"version": "1.0.1",
+	"description": "Simple module that allows for quick rolling of common dice.",
+	"version": "2.0.0",
 	"minimumCoreVersion": "0.4.4",
 	"compatibleCoreVersion": "0.5.7",
 	"author": "Darkspire Original Jan Ole Peek (ChalkOne)",
